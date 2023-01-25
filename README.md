@@ -1,0 +1,2 @@
+Repository hosting AncientMC's custom license for some of its software. This license is designed to be as permissive as possible while still acknowledging 
+the Minecraft EULA in an explicit manner. Related docs are also included within this repository. 
